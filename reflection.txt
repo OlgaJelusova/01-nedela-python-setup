@@ -1,0 +1,6 @@
+Šajā uzdevumā es iemācījos strādāt ar Python, Git un GitHub. 
+Sākumā bija grūti saprast, kā darbojas terminālis un komandas, 
+bet ar praksi kļuva vieglāk. 
+
+Man patika veidot algoritmus un diagrammu. 
+Gribētu turpināt mācīties programmēšanu un uzlabot savas prasmes.
