@@ -1,0 +1,9 @@
+Sākt
+Paņemt maizi
+Ja maize ir grauzdēta?
+    Ja nē → apgrauzdēt maizi
+Uzlikt sviestu
+Uzlikt sieru
+Uzlikt šķiņķi
+Uzlikt otru maizes šķēli
+Beigt
