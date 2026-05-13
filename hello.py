@@ -1,4 +1,4 @@
-print('Hello from VS Code')
-git remote add origin https://github.com/OlgaJelusova/01-nedela-python-setup.git
-git branch -M main
-git push -u origin main
+print("Hello, world!")
+print("Hello from VS Code")
+print("My first Python program")
+print("I am learning Python")
