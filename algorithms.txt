@@ -1,0 +1,28 @@
+1. Pieslēgšanās e-pastam
+
+Apraksts:
+Lietotājs atver e-pasta vietni un ievada savus piekļuves datus, lai piekļūtu pastam.
+
+Soļi:
+1. Atvērt pārlūkprogrammu
+2. Doties uz e-pasta vietni
+3. Ievadīt e-pasta adresi
+4. Ievadīt paroli
+5. Nospiest pogu “Ienākt”
+6. Ja dati ir pareizi — atvērt pastu
+7. Ja nē — parādīt kļūdu
+
+
+2. Kafijas iegāde
+
+Apraksts:
+Lietotājs pasūta kafiju kafejnīcā un saņem to pēc apmaksas.
+
+Soļi:
+1. Pieiet pie kases
+2. Apskatīt izvēlni
+3. Izvēlēties kafiju
+4. Veikt pasūtījumu
+5. Samaksāt
+6. Sagaidīt pasūtījumu
+7. Saņemt kafijus
